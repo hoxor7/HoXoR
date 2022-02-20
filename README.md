@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome To Wamead Company.
+- 👋 Welcome To Wamead Company.
 - 👀 We're interested in Programming and Designing.
 - 📫 Personal Email: HoXoR@yahoo.com
 - 📫 Work Email: info@wamead.com
