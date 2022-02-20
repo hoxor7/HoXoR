@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome To Wamead Company.
-- 👀 I’m interested in Programming and Designing.
+- 👀 We're interested in Programming and Designing.
 - 📫 Personal Email: HoXoR@yahoo.com
 - 📫 Work Email: info@wamead.com
 - 📱  WhatsApp & Telegram: +963933888166
